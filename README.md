@@ -1,5 +1,5 @@
-# Gilbert_sibomanaWebdev_project
-This Repository include Web developement final project, and it is about Car rental
+# Gilbert_sibomanaWebdev_project_PHP-SQL
+This project is about renting carS online, it was made by using PHP,SQL,JS,CSS,HTM.
 
 
-To run this project you need to have Xamp installed
+
